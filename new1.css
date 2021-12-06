@@ -1,0 +1,9 @@
+/* documento CSS */
+body {
+	background-color:#87ceeb; /*código cor fundo da página */
+}
+
+#paragraph1{
+	font-family:arial; font-size:25px; color:#ffffff; font-weight:bold; /*códigos pras letras */
+}
+
